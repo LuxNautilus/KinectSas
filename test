@@ -1,2 +1,3 @@
   int record = kinect.height;
 int record = kinect.width;
+color =(c)
