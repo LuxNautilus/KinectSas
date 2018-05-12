@@ -1,2 +1,2 @@
 # KinectSas
-first tries in processing
+first try in processing
